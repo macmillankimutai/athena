@@ -1,6 +1,5 @@
 # Github
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
+ This project uses the github api so that it can be able to load the data.The user types their user name and it can display their github repository.After searching it will display their  followers, their bio and also the number of repositories they have.
 
 ## Development server
 
